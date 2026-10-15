@@ -31,7 +31,7 @@ Extreme urban heatwaves are no longer just meteorological events—they are crit
 
 🔗 Live MVP Link
 
-Access the Application: [ Insert Live MVP Link Here ]
+Access the Application: https://thermos1.netlify.app
 
 👥 Team
 
